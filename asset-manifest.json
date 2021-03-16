@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/redux_thunk_study/static/css/main.04deb3de.chunk.css",
+    "main.js": "/redux_thunk_study/static/js/main.139e10c9.chunk.js",
+    "main.js.map": "/redux_thunk_study/static/js/main.139e10c9.chunk.js.map",
+    "runtime-main.js": "/redux_thunk_study/static/js/runtime-main.2daba41d.js",
+    "runtime-main.js.map": "/redux_thunk_study/static/js/runtime-main.2daba41d.js.map",
+    "static/js/2.2cbd9397.chunk.js": "/redux_thunk_study/static/js/2.2cbd9397.chunk.js",
+    "static/js/2.2cbd9397.chunk.js.map": "/redux_thunk_study/static/js/2.2cbd9397.chunk.js.map",
+    "index.html": "/redux_thunk_study/index.html",
+    "static/css/main.04deb3de.chunk.css.map": "/redux_thunk_study/static/css/main.04deb3de.chunk.css.map",
+    "static/js/2.2cbd9397.chunk.js.LICENSE.txt": "/redux_thunk_study/static/js/2.2cbd9397.chunk.js.LICENSE.txt",
+    "static/media/TopicsScreen.css": "/redux_thunk_study/static/media/right_arrow.a05974be.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2daba41d.js",
+    "static/js/2.2cbd9397.chunk.js",
+    "static/css/main.04deb3de.chunk.css",
+    "static/js/main.139e10c9.chunk.js"
+  ]
+}
